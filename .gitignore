@@ -1,4 +1,5 @@
 .gradle
+
 build/
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**/build/
@@ -43,4 +44,3 @@ bin/
 
 ### support plugin ###
 .idea
-.gradle
